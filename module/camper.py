@@ -78,7 +78,6 @@ Edad {val.get('Edad')}
 Genero: {val.get('Genero')}
 ____________________________________________________
     """)
-   return "The camper is avaliable"
     
 
 def delete():
